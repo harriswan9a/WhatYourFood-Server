@@ -1,0 +1,26 @@
+[{
+    "id": "f000001",
+    "name": "雞腿飯",
+    "price": 80,
+    "url": "http://www.jengjong.tw/upload/food/20140311185704212.jpg"
+}, {
+    "id": "f000002",
+    "name": "牛肉麵",
+    "price": 95,
+    "url": "https://farm9.staticflickr.com/8627/15801890998_2e915e5403.jpg"
+}, {
+    "id": "f000003",
+    "name": "Forkers 佛客漢堡",
+    "price": 149,
+    "url": "http://pic.pimg.tw/bababi/normal_1208079237.jpg"
+}, {
+    "id": "f000004",
+    "name": "滷肉飯",
+    "price": 55,
+    "url": "http://pic.pimg.tw/roger75730/b6ce025d61753fe3d6983f5ebffdc5a3.jpg"
+}, {
+    "id": "f000005",
+    "name": "什錦炒飯",
+    "price": 70,
+    "url": "http://p1.yokacdn.com/pic/life/foods/2013/U222P1T1D804316F9DT20130522111649.jpg"
+}]
